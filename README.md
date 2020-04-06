@@ -1,4 +1,4 @@
-# ML-Model-to-predict-Sale-Price
+# ML-Model-to-predict-Sale-Price (Regression Algorithm)
 Our project is based on the Kaggle Housing Prices Competition
 
 The following steps were followed to access the predictive model using regression algorithm.
